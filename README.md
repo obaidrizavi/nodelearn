@@ -1,7 +1,7 @@
 nodelearn
 =========
 
-A repository for training on and learning the Node.js framework
+A basic "Hello World" project in Node.js
 
 References: <br>
 The Node Beginner Book: http://www.nodebeginner.org/
